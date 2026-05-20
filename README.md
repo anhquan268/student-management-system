@@ -44,7 +44,6 @@ StudentManagementSystem/
 ├── StudentManagementSystem.cpp   # Main source file (all modules)
 ├── header.h                     # Cross-platform utilities
 ├── README.md                    # This file
-|
 ├── Data Files (generated at runtime):
 │   ├── student.txt              # Binary student records
 │   ├── grade.txt                # Binary grade records
