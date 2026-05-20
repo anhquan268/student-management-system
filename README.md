@@ -43,7 +43,6 @@ A comprehensive console-based C++ application for managing student information, 
 StudentManagementSystem/
 ├── StudentManagementSystem.cpp   # Main source file (all modules)
 ├── header.h                     # Cross-platform utilities
-├── CodeExplanation.md           # Detailed code documentation
 ├── README.md                    # This file
 |
 ├── Data Files (generated at runtime):
