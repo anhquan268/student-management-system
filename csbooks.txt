@@ -1,0 +1,6 @@
+Data Structures and Algorithms
+John Smith
+Pearson
+CS001
+65
+10
